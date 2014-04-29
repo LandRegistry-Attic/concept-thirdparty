@@ -1,0 +1,41 @@
+body {padding-top:70px}
+
+.navbar-default  .navbar-brand {font-family: 'Sansita One', 'cursive';
+font-size:33px}
+h3 {margin:0;padding:0 0 12px 0; font-size:14px; font-weight:normal; text-transform:uppercase;color:#85994b;}
+
+.glyphicon-ok-circle {color:#5CB85C;}
+.glyphicon-warning-sign {color:#F0AD4E}
+
+.navbar-default  .navbar-brand, .navbar-default .navbar-link {color:#85994b}
+
+#selling {min-height:400px}
+
+#meta {
+  margin-top:25px!important;
+  padding:20px 0;
+  background:#85994b;
+  font-size:20px;
+  font-weight: 200;
+  color:#fff;
+}
+#meta ul {
+  padding:0;
+  margin:0;
+}
+
+#meta li{
+  list-style-type:none;
+  padding:0;
+  margin:0;
+}
+
+#todo {
+  border-right:solid 1px #ccc;
+  min-height:400px
+}
+
+#tandc {padding-top:10px}
+
+#govukinstructions {font-size:130%; padding:1em 0;}
+#govukinstructions .btn {margin-top:1em; margin-left:32px}
